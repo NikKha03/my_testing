@@ -1,1 +1,1 @@
-# Hexlet-MyTesting
+# Испытания для практики JS
